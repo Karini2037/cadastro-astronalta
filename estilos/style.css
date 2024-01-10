@@ -11,7 +11,7 @@ html, body {
     width: 100vw;
     height: 100vh;
     background-color: black;
-    background-image: url('/../teste-query-9/imagens/espaco.jpg');
+    background-image: url('../imagens/espaco.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

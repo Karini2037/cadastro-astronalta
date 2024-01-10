@@ -10,7 +10,7 @@
 
     section#cadastro > div#imagem {
         display: block;
-        background-image: url('/../teste-query-9/imagens/astronauta.png');
+        background-image: url('../teste-query-9/imagens/astronauta.png');
         background-position: right center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -31,7 +31,7 @@
 
     section#cadastro > div#imagem {
         display: block;
-        background-image: url('/../teste-query-9/imagens/astronauta.png');
+        background-image: url('../teste-query-9/imagens/astronauta.png');
         background-position: right center;
         background-repeat: no-repeat;
         background-size: cover;
